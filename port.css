@@ -92,7 +92,7 @@ li {
 }
 
 #lbc {
-    text-decoration-color: crimson;
+    text-decoration-color: rgb(220, 103, 20);
     color: chartreuse;
     border-radius: 7px;
 }
