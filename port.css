@@ -1,0 +1,98 @@
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#tbtn {
+    background-color: rgb(233, 113, 14);
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.tt {
+    padding-left: 1000px;
+    padding-top: 100px;
+    padding-right: 150px;
+
+}
+
+#tti {
+    font-size: 50px;
+    font-style: oblique;
+}
+
+.top {
+    display: flex;
+    height: 760px;
+    background-image: url(images/banner/banner3.png);
+    text-decoration: azure;
+    position: static;
+    text-align: end;
+}
+
+
+.failor {
+    padding-left: 150px;
+    padding-right: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.mp {
+    text-align: center;
+}
+
+.plan {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+li {
+    font-size: larger;
+    list-style-type: inherit;
+}
+
+.positive {
+    min-height: 200px;
+    position: relative;
+    margin: 10px 160px;
+    border-radius: 20px;
+    padding: 50px 500px 50px 50px;
+    background-image:
+        linear-gradient(to left, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)),
+        url('images/watch.png');
+    background-size: cover;
+}
+
+#lp {
+    text-align: center;
+}
+
+/*
+.work {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+*/
+
+.low {
+    text-decoration: aliceblue;
+    background-color: aqua;
+    display: flex;
+    text-align: justify;
+    justify-content: space-evenly;
+
+}
+
+.ls {
+    padding: 50px;
+}
+
+#lbc {
+    text-decoration-color: crimson;
+    color: chartreuse;
+    border-radius: 7px;
+}
